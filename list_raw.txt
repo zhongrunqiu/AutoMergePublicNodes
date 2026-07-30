@@ -76,5 +76,5 @@ vless://64b6f905-94d5-4745-8f92-cafa107b7c16@94.139.251.9:443?allowInsecure=1&sn
 vless://7c74b0e4-f132-5583-4692-622a7d6b71a4@88.218.44.4:993?allowInsecure=1&sni=dl.google.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#12%7CUS_speednode_0119
 vless://89c3b66f-c849-4602-a5a8-84b6f06af478@www.true.th:80?allowInsecure=0&sni=d2pwbkmfr5lxa4.cloudfront.net&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=/#12%7CUS_speednode_0101
 vless://6f876b28-1b3e-4088-85c0-d299e56bfccd@172.64.88.168:8880?allowInsecure=0&sni=throbbing-haze-fbde.388-6c4.workers.dev&type=ws&host=throbbing-haze-fbde.388-6c4.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#12%7CUS_speednode_0118
-hhy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@82.47.32.31:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#
 hhysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@usp.noesissite.ru:443/?sni=usp.noesissite.ru#59@oneclickvpnkeys
+hhy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@82.47.32.31:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#
