@@ -666,7 +666,6 @@ proxies:
   password: 6aab8efdf13945829ae3699c342be406
   port: 443
   server: fiproxy1.lockdwn.com
-  skip-cert-verify: false
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
@@ -1071,7 +1070,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 9|🇫🇮145517 | ⚡️Telegram = t.me/S...
+- name: 9|🇫🇮FI-🚀@VPNine1
   obfs: salamander
   obfs-password: kf1lypzqidy6pimt
   password: t8t2qojzsykqazfu
@@ -1101,7 +1100,7 @@ proxies:
   sni: assets.gateway-stream.com@freenettir ¹
   tls: false
   type: hysteria2
-- name: 9|🇫🇮FI-🚀@VPNine1
+- name: '9|🇫🇮FI-🚀@VPNine1 #1'
   obfs: salamander
   obfs-password: v8h63irhnay97090
   password: t8t2qojzsykqazfu
@@ -1113,7 +1112,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '9|🇫🇮FI-🚀@VPNine1 #1'
+  name: '9|🇫🇮FI-🚀@VPNine1 #2'
   obfs: salamander
   obfs-password: 7206pa46enqqdnmt
   password: t8t2qojzsykqazfu
@@ -1132,7 +1131,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '9|🇫🇮FI-🚀@VPNine1 #2'
+- name: '9|🇫🇮FI-🚀@VPNine1 #3'
   obfs: salamander
   obfs-password: 7206pa46enqqdnmt
   password: t8t2qojzsykqazfu
@@ -1144,7 +1143,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '9|🇫🇮FI-🚀@VPNine1 #3'
+  name: '9|🇫🇮FI-🚀@VPNine1 #4'
   obfs: salamander
   obfs-password: jg5vvom5svs9rmnx
   password: t8t2qojzsykqazfu
@@ -1155,7 +1154,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '9|🇫🇮FI-🚀@VPNine1 #4'
+  name: '9|🇫🇮FI-🚀@VPNine1 #5'
   obfs: salamander
   obfs-password: phos93w1zi0nj6uv
   password: t8t2qojzsykqazfu
@@ -1186,7 +1185,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '9|🇫🇮FI-🚀@VPNine1 #5'
+  name: '9|🇫🇮FI-🚀@VPNine1 #6'
   obfs: salamander
   obfs-password: txwr28j1lntoy0sj
   password: t8t2qojzsykqazfu
