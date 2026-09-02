@@ -17,7 +17,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 9|dc-udp- Japan-Tokyo
+  name: 9|dc-udp-🇵 Japan-Tokyo
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: mdq80x0xv9wt7520
