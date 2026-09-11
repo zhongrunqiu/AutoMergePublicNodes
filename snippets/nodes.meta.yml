@@ -1006,7 +1006,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 9|7@JKVPN
+  name: 9|🇸7@JKVPN
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: s6gt5e4mof43sfg8
